@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL Here](https://github.com/AbuEisha/front-end-mentor-challenges/tree/calculator-app)
+- [Solution URL Here](https://github.com/AbuEisha/calculator-app)
 - [Live Site URL Here](https://calculator-app-live.pages.dev/)
 
 ## My process
